@@ -1,0 +1,21 @@
+#submit-input {
+  background-color:burlywood;
+  border: 6px ;
+  color: black;
+  border-radius: 25px;
+  width: 180px;
+}
+
+select {
+  display: inline-block;
+  margin-bottom: 20px;
+  background-color: lavender;
+}
+body {
+  background-color: lightpink;  
+}
+#number-input {
+  width: 180px;
+}
+
+
