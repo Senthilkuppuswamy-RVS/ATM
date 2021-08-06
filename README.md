@@ -1,6 +1,6 @@
 # ATM
 
-ATM Project
+## ATM Project
 
 This project provides options to user for depositing and withdrawing the cash and displays the total amount
 
